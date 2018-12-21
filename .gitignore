@@ -1,4 +1,5 @@
 .*
-!.gitignore*.js
+!.gitignore
+*.js
 *.map
 node_modules

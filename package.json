@@ -1,0 +1,25 @@
+{
+  "name": "ts-example",
+  "bin": {
+    "hello": "./HelloWorld.js"
+  },
+  "version": "1.0.0",
+  "description": "Following religiously [this](https://code.visualstudio.com/Docs/languages/typescript)",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcabrera/ts-example.git"
+  },
+  "author": "SlowCoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmcabrera/ts-example/issues"
+  },
+  "homepage": "https://github.com/jmcabrera/ts-example#readme",
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
